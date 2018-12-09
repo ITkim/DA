@@ -1,0 +1,2 @@
+﻿Git is Such an amazing platform!
+But text file must be saved as utf-8 encoding.
